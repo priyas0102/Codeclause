@@ -1,2 +1,2 @@
-# Codeclause-Task-2
-## Project Name = Calculator in Python 
+# Codeclause-Golden_Project
+## Project Name = Speed Typing Test in Python
